@@ -3,7 +3,7 @@
 ## **📝About me:**
 
 Hey i'm Amiru <br>
-20 Y/O making random stuff <br>
+20 Y/O 'making' random stuff <br>
 Main project is [Quality Refresh](https://github.com/NotAmiru/QualityRefresh) <br>
 My other [platforms](https://linktr.ee/NotAmiru) <br>
 Based in the UK
